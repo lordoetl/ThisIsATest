@@ -20,4 +20,5 @@
  'timezone': 7200,
  'id': 425378,
  'name': 'Bujumbura',
- 'cod': 200}
+ 'cod': 200,
+'newItem':'bob'}
